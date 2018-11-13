@@ -1,2 +1,2 @@
-# goImageTest
-# circlecut
+# comiket circle cut generator
+
